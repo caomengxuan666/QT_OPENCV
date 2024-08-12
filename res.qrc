@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/image.jpg</file>
+        <file>qrc/video.jpg</file>
+    </qresource>
+</RCC>
